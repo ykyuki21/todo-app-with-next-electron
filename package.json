@@ -1,7 +1,8 @@
 {
-  "name": "with-electron-typescript",
-  "productName": "ElectronTypescriptNext",
+  "name": "todo-app-with-electron",
+  "productName": "TodoAppWithElectron",
   "version": "1.0.0",
+  "private": true,
   "main": "main/index.js",
   "scripts": {
     "clean": "rimraf dist main renderer/out renderer/.next",
